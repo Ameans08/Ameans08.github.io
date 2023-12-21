@@ -1,0 +1,74 @@
+.image1{
+  position:absolute;
+  top:75px;
+  right:05px;
+}
+.image2{
+  position:absolute;
+  top:75px;
+  left:05px;
+}
+.subheading{
+  position:absolute;
+  top:300px;
+}
+.image3{
+  position:relative;
+  top:25px;
+}
+.image4{
+  position:absolute;
+  top:350px;
+  left:75px
+}
+.image5{
+  position:relative;
+  top:25px;
+}
+.image6{
+  position:absolute;
+  top:350px;
+  right:75px;
+}
+.paragraph{
+  position:absolute;
+  top:315px;
+  left:05px;
+
+}
+.paragraph2{
+  position:absolute;
+  top:315px;
+  right:10px;
+}
+.text{
+  font-size: 100px;
+}
+.background{
+  background-color:brown;
+}
+.jumbotron {
+  background: url('dark.jpg') center/cover;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+.circular-image {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.circular-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.footer{
+  position:relative;
+  top:225px;
+}
+.untin{
+  position:relative;
+  top:50px;
+}
